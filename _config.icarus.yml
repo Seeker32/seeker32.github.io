@@ -9,6 +9,26 @@ navbar:
         About: /about
     links:
         GitHub: https://github.com/Seeker32
-        Download on GitHub:
-            icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+widgets:
+    -
+        position: left
+        type: profile
+        # 作者名称
+        author: Seeker32
+        # 作者头衔
+        author_title: 一个编程苦手
+        # 头像图片地址
+        avatar: https://github.com/Seeker32/seeker32.github.io/images/avatar.jpg
+        # 是否显示圆形头像
+        avatar_rounded: true
+        # 社交媒体链接
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: 'https://github.com/Seeker32'
+            Icarus: 'https://github.com/ppoffice/hexo-theme-icarus'
+    -
+        type: toc
+        position: right
+        # 是否显示目录项目的序号
+        index: true
