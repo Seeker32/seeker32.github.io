@@ -18,7 +18,7 @@ widgets:
         # 作者头衔
         author_title: 一个编程苦手
         # 头像图片地址
-        avatar: https://github.com/Seeker32/seeker32.github.io/images/avatar.jpg
+        avatar: /images/avatar.jpg
         # 是否显示圆形头像
         avatar_rounded: true
         # 社交媒体链接
