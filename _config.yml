@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Seeker32/seeker32.github.io
-  branch: main
+  branch: pages
