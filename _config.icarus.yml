@@ -1,16 +1,14 @@
-version: 5.0.0
+version: 5.1.0
 variant: default
 navbar:
-    # 导航栏菜单项
     menu:
         Home: /
         Archives: /archives
         Categories: /categories
         Tags: /tags
         About: /about
-    # 导航栏右侧的链接
     links:
-        GitHub: 'https://github.com/Seeker32'
+        GitHub: https://github.com/Seeker32
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: https://github.com/ppoffice/hexo-theme-icarus
